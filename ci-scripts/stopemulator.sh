@@ -1,1 +1,1 @@
-adb -e emu kill &
+adb -e emu kill
